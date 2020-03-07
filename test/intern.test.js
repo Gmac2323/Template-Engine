@@ -1,6 +1,6 @@
 // Requirements
 const test = require("jest");
-const Intern = require("../lib/Intern");
+const Intern = require("../lib/Intern.js");
 
 test("set school via constructor", () => {
   const testValue = "Loyola";
